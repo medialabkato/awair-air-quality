@@ -1,5 +1,5 @@
 # awair-air-quality
-Katowice air pollution data collection and analysis
+Katowice air pollution data preprocessing and analysis
 
 Based on data from Awair air pollution monitoring system (https://powietrze.katowice.eu/) through json API.
 Available indicators: PM2.5, PM10.
